@@ -1,0 +1,18 @@
+==== Links
+
+include::{snippets}/index-example/links.adoc[]
+include::{snippets}/employee-create-example/http-request.adoc[]
+include::{snippets}/employee-create-example/http-response.adoc[]
+
+include::{snippets}/employee-get-example/http-request.adoc[]
+include::{snippets}/employee-get-example/http-response.adoc[]
+
+include::{snippets}/employee-put-example/http-request.adoc[]
+include::{snippets}/employee-put-example/http-response.adoc[]
+
+include::{snippets}/employee-delete-example/http-request.adoc[]
+include::{snippets}/employee-delete-example/http-response.adoc[]
+
+include::{snippets}/employee-patch-example/http-request.adoc[]
+include::{snippets}/employee-patch-example/http-response.adoc[]
+
